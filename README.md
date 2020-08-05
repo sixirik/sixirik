@@ -1,7 +1,7 @@
 ### Howdy, I'm Viktor 👋
 
 ## Junior Frontend Developer!
-- 🌱 I’m currently learning: React Js 🤣
+- 🌱 I’m currently learning: React Js
 - 🥅 2020 Goals: Pursue a career as Junior Frontend Developer
 
 ### Connect with me:

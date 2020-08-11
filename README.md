@@ -1,7 +1,7 @@
 ### Howdy, I'm Viktor
 
 ## Junior Frontend Developer!
-☄️ I'm a creative guy who likes to resolve design problems, create smart user interface and imagine useful interaction, developing rich web experiences & web applications.
+☄️ I'm a creative guy who likes to resolve design problems, create smart user interface, developing cool web applications.
 
 
 

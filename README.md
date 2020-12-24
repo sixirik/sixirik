@@ -1,6 +1,5 @@
 ### Howdy, I'm Viktor
 
-## UI Developer!
 ☄️ I'm a creative guy who likes to resolve design problems, create smart user interface, developing cool web applications.
 
 

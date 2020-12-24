@@ -1,6 +1,6 @@
 ### Howdy, I'm Viktor
 
-## Frontend Developer!
+## UI Developer!
 ☄️ I'm a creative guy who likes to resolve design problems, create smart user interface, developing cool web applications.
 
 
